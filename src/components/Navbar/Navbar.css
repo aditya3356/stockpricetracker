@@ -1,0 +1,99 @@
+.AppBar {
+    background: white !important;
+    color: #AE42C9 !important;
+}
+
+/* .indicator {
+    background-color: #AE42C9 !important;
+} */
+
+.StyledFirebaseAuth {
+    height: 20px;
+}
+
+.FirebaseText {
+    color: #fff !important;
+    display: table-cell !important;
+    font-size: 14px !important;
+    padding-left: 8px !important;
+    text-transform: none !important;
+    vertical-align: middle !important;
+}
+
+.TabItem{
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 25px !important;
+}
+
+/* .Div {
+    position: relative;
+} */
+
+.Navbar {
+    position: absolute;
+    width: 100%;
+    height: 108px;
+    left: 0px;
+    top: 0px;
+    background: white;
+    border: 1px solid #E9D6F4;
+    display: flex;
+    align-items: baseline;
+}
+
+.Home {
+    position: absolute;
+    width: 69px;
+    height: 20px;
+    left: 507px;
+    top: 44px;
+
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+    text-align: center;
+
+    color: #AE42C9;
+    cursor: pointer;
+}
+
+.Watchlist {
+    position: absolute;
+    width: 107px;
+    height: 20px;
+    left: 627px;
+    top: 44px;
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    cursor: pointer;
+}
+
+.Name {
+    position: absolute;
+    height: 17.23px;
+    left: 160px;
+    top: 40px;
+    color: #AE42C9;
+    font-size: 25px;
+}
+
+.Logo {
+    position: absolute;
+    left: 100px;
+    top: 25px;
+    height: 60px;
+    width: 60px;
+}

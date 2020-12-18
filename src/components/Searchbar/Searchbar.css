@@ -1,0 +1,55 @@
+.Container {
+    position: absolute;
+    left: 180px;
+    top: 188px;
+}
+
+.Searchbar {
+    width: 1080px;
+    height: 66px;
+    background: #F8F8F8;
+    border: 1px solid #E9D6F4;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.04), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 23px;
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 80%;
+    padding: 23px 32px;
+    outline: none;
+}
+
+.Icons {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 20px;
+    top: 11px;
+    width: 144px;
+    height: 44px;
+    justify-content: space-between;
+    margin-right: 19px;
+}
+
+.CrossIcon {
+    width: 20px;
+    height: 20px;
+}
+
+.Bar {
+    width: 44px;
+    height: 0px;
+
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    transform: rotate(-90deg);
+}
+
+.SearchItems {
+    position: absolute;
+    width: 1080px;
+    left: 180px;
+    top: 254px;
+}

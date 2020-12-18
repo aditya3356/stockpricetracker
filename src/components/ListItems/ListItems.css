@@ -1,0 +1,46 @@
+.ContainerPopularStocks {
+    position: absolute;
+    width: 1240px;
+    left: 103px;
+    top: 188px;
+}
+
+.ContainerWatchlist {
+    position: absolute;
+    width: 1240px;
+    left: 103px;
+    top: 334px;
+}
+.Heading {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 80%;
+    /* or 38px */
+
+
+    color: #000000;
+    margin-bottom: 48px;
+}
+
+.ColumnHeaders {
+    display: flex;
+    justify-content: space-between;
+    margin-left: -3px;
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.MarketPrice {
+    margin-right: 110px;
+}

@@ -1,0 +1,27 @@
+.Typography{
+    position: absolute;
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 48px !important;
+    margin-top: 60px !important;
+    margin-bottom: 10px !important;
+    top: 188px;
+}   
+
+.ListImage{
+    margin-right: 10px !important;
+    width:"100px" !important;
+    height:"100px" !important;
+}
+
+.ColumnHeader{
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 25px !important;
+}
+
+.ListItem{
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 25px !important;
+}
